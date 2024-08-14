@@ -487,7 +487,7 @@ public class ConstraintSolver {
 	
 	public static void main(String[] args) {
 		ConstraintSolver problem = new ConstraintSolver();
-		problem.printAnswer("C:\\Users\\Ryan Wynne\\OneDrive\\Documents\\MyVSCode\\Constraint_Solver\\src\\data.txt\\");
+		problem.printAnswer("C:\\Users\\Ryan Wynne\\OneDrive\\Documents\\MyVSCode\\ConstraintSolver\\src\\data.txt\\");
 	}
 
 }
